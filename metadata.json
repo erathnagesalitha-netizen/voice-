@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Voice Translator",
+  "description": "A real-time voice translator application using Gemini API for speech-to-text, translation, and text-to-speech, with an optional thinking mode for complex queries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
